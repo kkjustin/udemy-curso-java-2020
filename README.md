@@ -4,8 +4,8 @@ Curso Java 13 udemy - 2020
 
 Curso de Java completo e atualizado
 
-Aulas: 519
-Vídeo: 76 total horas
+- Aulas: 519
+- Vídeo: 76 total horas
 
 1) Algoritmo e Estrutura de Dados
 2) Fundamentos da Linguagem Java
